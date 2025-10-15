@@ -32,6 +32,9 @@ Before starting the Docker environment, ensure the following prerequisites are m
       docker-compose --version
     ```
     **NOTE:** In newer versions of docker the `docker-compose` command may be `docker compose`, if using Docker Desktop there should be an option to allow both commands to work.
+
+  **NOTE:** Warnings like `The requested image’s platform (linux/amd64) does not match the detected host platform (linux/arm64/v8)` may happen if your machine has an ARM chip, this isn't neccessarily a problem.
+  
 - **System Permissions:**  
   Docker must be able to access your file system and network. On macOS/Windows, ensure your shared directories are configured correctly in Docker Desktop settings.
 
