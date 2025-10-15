@@ -31,6 +31,7 @@ Before starting the Docker environment, ensure the following prerequisites are m
     ```
       docker-compose --version
     ```
+    **NOTE:** In newer versions of docker the `docker-compose` command may be `docker compose`, if using Docker Desktop there should be an option to allow both commands to work.
 - **System Permissions:**  
   Docker must be able to access your file system and network. On macOS/Windows, ensure your shared directories are configured correctly in Docker Desktop settings.
 
@@ -64,6 +65,7 @@ This section outlines frequent problems encountered during the initial launch of
 **Symptoms:**
 - Startup fails with a message like `Bind for 0.0.0.0:5432 failed: port is already allocated`.
 - PostgreSQL or Spark UI does not load in a browser.
+(**Note:** For the docker-compose file in this repo, port 5432 was mapped to 5435 on the host to avoid conflicts with existing local postgres instances)
 
 **Resolution Steps:**
 - Check for conflicting services on required ports (e.g., 5432 for PostgreSQL).
