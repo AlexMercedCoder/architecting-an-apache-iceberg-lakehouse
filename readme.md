@@ -10,7 +10,7 @@ You’ll find examples organized by chapter, reflecting key topics covered in th
 
 Here is a glossary of Term used throughout the book.
 
-- [Glossary](./other/glossary.md)
+[Glossary](./other/glossary.md)
 
 ### Chapter 1: The world of the Apache Iceberg lakehouse
 
