@@ -56,11 +56,11 @@ Here is a glossary of Term used throughout the book.
 
 [Resources](/AppA/readme.md)
 
-### Appendix B: Hands-on with Apache Iceberg
+### Appendix B: Python for Apache Iceberg
 
 [Resources](/AppB/readme.md)
 
-### Appendix C: Hands-on with Apache Iceberg
+### Appendix C: The Apache Iceberg specification
 
 [Resources](/AppC/readme.md)
 
