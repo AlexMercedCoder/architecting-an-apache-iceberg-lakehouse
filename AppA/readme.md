@@ -1,3 +1,6 @@
-# Chapter Resources - Appendix A - The metadata tables
+# Appendix A: The metadata tables
 
-- [Chapter Code Snippets](./code_snippets.md)
+## Chapter Resources
+
+- [code_snippets.md](./code_snippets.md)
+

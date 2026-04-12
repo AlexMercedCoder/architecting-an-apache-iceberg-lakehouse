@@ -12,45 +12,49 @@ Here is a glossary of Term used throughout the book.
 
 [Glossary](./other/glossary.md)
 
-### Chapter 1: The world of the Apache Iceberg lakehouse
+### Chapter 1: The world of the data lakehouse
 
 [Resources](/ch1/readme.md)
 
-### Chapter 2: Hands-on with Apache Iceberg
+### Chapter 2: Apache Iceberg and the lakehouse
 
 [Resources](/ch2/readme.md)
 
-### Chapter 3: Preparing for your move to Apache Iceberg
+### Chapter 3: Hands-on with Apache Iceberg
 
 [Resources](/ch3/readme.md)
 
-### Chapter 4: Selecting the storage layer
+### Chapter 4: Preparing for your move to Apache Iceberg
 
 [Resources](/ch4/readme.md)
 
-### Chapter 5: Architecting the ingestion layer
+### Chapter 5: Selecting the storage layer
 
 [Resources](/ch5/readme.md)
 
-### Chapter 6: Implementing the catalog layer
+### Chapter 6: Architecting the ingestion layer
 
 [Resources](/ch6/readme.md)
 
-### Chapter 7: Designing the federation layer
+### Chapter 7: Implementing the catalog layer
 
 [Resources](/ch7/readme.md)
 
-### Chapter 8: Understanding the consumption layer
+### Chapter 8: Designing the federation layer
 
 [Resources](/ch8/readme.md)
 
-### Chapter 9: Maintaining an Iceberg lakehouse
+### Chapter 9: Understanding the consumption layer
 
 [Resources](/ch9/readme.md)
 
-### Chapter 10: Operationalizing Apache Iceberg
+### Chapter 10: Maintaining an Iceberg lakehouse
 
 [Resources](/ch10/readme.md)
+
+### Chapter 11: Operationalizing Apache Iceberg
+
+[Resources](/ch11/readme.md)
 
 ### Appendix A: The metadata tables
 
@@ -65,6 +69,9 @@ Here is a glossary of Term used throughout the book.
 [Resources](/AppC/readme.md)
 
 
+## About the Author
 
-
-
+Alex Merced is an experienced developer, speaker, and instructor. You can find more of his work and writings across his online properties:
+- **Main Website:** [alexmerced.com](http://alexmerced.com)
+- **Book Catalog:** [books.alexmerced.com](http://books.alexmerced.com)
+- **Online Blog:** [alexmerced.blog](http://alexmerced.blog)
