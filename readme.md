@@ -1,6 +1,6 @@
 # Architecting an Apache Iceberg Lakehouse
 
-This repository serves as the official companion to the *Architecting an Apache Iceberg Lakehouse* book. It provides curated code samples, configuration files, and supporting materials to help you apply the concepts and techniques discussed throughout the chapters.
+This repository serves as the official companion to the [*Architecting an Apache Iceberg Lakehouse*](https://www.manning.com/books/architecting-an-apache-iceberg-lakehouse) book. It provides curated code samples, configuration files, and supporting materials to help you apply the concepts and techniques discussed throughout the chapters.
 
 ## Repository Overview
 
